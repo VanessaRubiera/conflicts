@@ -5,3 +5,5 @@ print(message) #Podemos tener comillas '', "" o """
 
 age = input("Dime tu edad:")
 print(f"Tienes {age} años de edad") #Uso de fstring
+
+print(f"Tu nombre es {name} y tu edad es de {age} años.")
